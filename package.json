@@ -1,0 +1,15 @@
+{
+  "name": "igscraper",
+  "version": "1.0.0",
+  "description": "IG Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Jenkins",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request-promise": "^4.2.6"
+  }
+}
